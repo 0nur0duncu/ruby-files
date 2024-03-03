@@ -1,0 +1,1 @@
+It seems like there might be a misunderstanding. The provided code appears to be for solving the "3n+1" problem rather than implementing a Rock-Paper-Scissors game. If you are looking for a Rock-Paper-Scissors game in Ruby, please clarify your request, and I'll be happy to provide you with an example.
